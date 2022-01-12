@@ -1,0 +1,23 @@
+{
+    "pages": {
+        "home": {
+            "title": "Home",
+            "subtitle": "Awesome subtitle goes here."
+        },
+		"about": {
+            "title": "About",
+            "subtitle": "There is a lot to tell."
+        }
+    },
+    "navigations": {
+        "home": "Home",
+        "about": "About"
+    },
+    "labels": {
+        "language": "Language"
+    },
+    "languages": {
+        "de": "German",
+        "en": "English"
+    }
+}

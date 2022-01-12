@@ -1,0 +1,23 @@
+{
+    "pages": {
+		"home": {
+            "title": "Startseite",
+            "subtitle": "Ein toller Untertitel hier."
+        },
+		"about": {
+            "title": "Über diese Seite",
+            "subtitle": "Es gibt einiges zu erzählen."
+        }
+	},
+	"navigations": {
+		"home": "Start",
+		"about": "Über uns"
+	},
+	"labels": {
+		"language": "Sprache"
+	},
+    "languages": {
+        "de": "Deutsch",
+        "en": "Englisch"
+    }
+}
